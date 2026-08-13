@@ -19,15 +19,34 @@
 
 ---
 
-### 最近在做
+### 我的项目
 
 - [Phantom](https://github.com/techccy/phantom) —— 通过动态视觉噪声、运动轨迹分析、DSP 等技术构建的人机验证项目
 - [theDIU](https://github.com/techccy/thediu) —— AI 终端命令诊断助手（thefuck的AI加强版）
 - [RainMail](https://github.com/techccy/RainMail) —— 随天气而变的匿名信箱
 
-### 我相信
+### 我的自媒体
 
-> **先搞清楚问题，再讨论答案。**
+**CCY的数理讲堂**
 
-### [techccy.com](https://techccy.com)
+这是我长期独立运营的数学与科学内容频道。
+
+从最初的内容构思，到知识梳理、脚本设计、主讲、录制，
+再到后期剪辑与维护，整个过程均由我独立完成。
+
+我希望做的不是简单地「讲答案」，而是：
+
+> **把抽象的数理概念拆解成可感知的脉络，  
+> 让硬核知识也能讲得清晰、有趣、可复看。**
+
+目前已经持续创作 **2.5 年**，积累了一批系统化的数学与科学内容，并仍在持续更新。
+
+[抖音](https://www.douyin.com/)
+[哔哩哔哩](https://space.bilibili.com/)
+
+### 关于我
+
+[techccy.com](https://techccy.com)
+
+[ccy@techccy.com](mailto:ccy@techccy.com)
 
